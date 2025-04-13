@@ -25,7 +25,7 @@ sudo python3 Q1a.py
 sudo python3 Q1b.py
 
 sudo python3 Q2.py
-# README
+
 
 
 
