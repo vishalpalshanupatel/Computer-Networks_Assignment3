@@ -15,18 +15,18 @@
 
 ---
 
-## File Descriptions & Usage
+## Commands for each file:
 
-### ✅ `Q1a.py`
-**Description:**  
-Creates a Mininet topology where h1 communicates with h2 using custom IPs and default gateway settings.
 
 **Run:**
 ```bash
 sudo python3 Q1a.py
 
-```bash
 sudo python3 Q1b.py
 
-```bash
 sudo python3 Q2.py
+# README
+
+
+
+
